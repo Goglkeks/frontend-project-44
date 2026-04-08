@@ -6,7 +6,7 @@ const getRandomNumber = (min, max) => {
 
 const getRandomOperation = () => {
   const operations = ['+', '-', '*']
-  const index = Math.floor(Math.random() * operations.length)
+  const index = Math.floor(Math.random() * operations.length) //NOSONAR
   return operations[index]
 }
 
