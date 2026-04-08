@@ -10,6 +10,6 @@ export default [
     indent: 2,
     quotes: 'single',
     semi: false,
-    jsx: false
-  })
+    jsx: false,
+  }),
 ]
