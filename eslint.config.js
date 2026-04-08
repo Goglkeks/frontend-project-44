@@ -12,6 +12,6 @@ export default [
     semi: false,
     jsx: false,
   }),
+
 ]
 
-// Добавьте пустую строку здесь
