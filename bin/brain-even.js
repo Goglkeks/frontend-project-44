@@ -9,7 +9,7 @@ const brainEven = () => {
   console.log('Answer "yes" if the number is even, otherwise answer "no".')
 
   for (let i = 0; i < 3; i += 1) {
-    const rand = Math.floor(Math.random() * 100)
+    const rand = Math.floor(Math.random() * 100) // NOSONAR
     console.log(`Question: ${rand}`)
     const userAnswer = readlineSync.question('Your answer: ')
 
