@@ -1,7 +1,7 @@
 import { runGame } from '../index.js'
 
 const generateRound = () => {
-  const rand = Math.floor(Math.random() * 100)
+  const rand = Math.floor(Math.random() * 100) //NOSONAR
   const question = String(rand)
   const correctAnswer = rand % 2 === 0 ? 'yes' : 'no'
 

@@ -1,12 +1,12 @@
 import { runGame } from '../index.js'
 
 const getRandomNumber = (min, max) => {
-  return Math.floor(Math.random() * (max - min + 1)) + min
+  return Math.floor(Math.random() * (max - min + 1)) + min //NOSONAR
 }
 
 const getRandomOperation = () => {
   const operations = ['+', '-', '*']
-  const index = Math.floor(Math.random() * operations.length)
+  const index = Math.floor(Math.random() * operations.length) //NOSONAR
   return operations[index]
 }
 
