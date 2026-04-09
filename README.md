@@ -1,5 +1,4 @@
 ### Hexlet tests and linter status:
-
-[![ESLint](https://img.shields.io/badge/ESLint-enabled-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
-[![Actions Status](https://github.com/GoglKeks/brain-games/workflows/hexlet-check/badge.svg)](https://github.com/ваш-логин/brain-games/actions
-[![Test Status](https://github.com/GoglKeks/brain-games/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ваш-логин/brain-games/actions)
+[![Actions Status](https://github.com/gtxpit/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/gtxpit/frontend-project-44/actions)
+ 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gtxpit_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=gtxpit_frontend-project-44)
