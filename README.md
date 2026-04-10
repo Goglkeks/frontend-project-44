@@ -5,25 +5,22 @@
 
 Игра: «Калькулятор»:
 
-<img width="570" height="243" alt="image" src="https://github.com/user-attachments/assets/c4b13366-443b-4cfd-8e15-a5124acdeda1" />
+[![asciicast](https://asciinema.org/a/2O5IpyoUSu8POKXj.svg)](https://asciinema.org/a/2O5IpyoUSu8POKXj)
 
 Игра: «Проверка на чётность»:
 
-<img width="419" height="219" alt="image" src="https://github.com/user-attachments/assets/531af951-b5a3-4f1a-9adc-e07fd6477d88" />
+[![asciicast](https://asciinema.org/a/bCTmbUt486BfDqAS.svg)](https://asciinema.org/a/bCTmbUt486BfDqAS)
 
 Игра: "Наибольший общий делитель":
 
-<img width="363" height="218" alt="image" src="https://github.com/user-attachments/assets/3bbea96e-7550-4a99-bc65-f64a2156cd79" />
+[![asciicast](https://asciinema.org/a/ncevRSAf1pZ9G78p.svg)](https://asciinema.org/a/ncevRSAf1pZ9G78p)
 
 Игра: "Проверка на целое число":
 
-<img width="444" height="220" alt="image" src="https://github.com/user-attachments/assets/5dc7453c-e741-4fc2-b5fa-762d20f7d303" />
+[![asciicast](https://asciinema.org/a/1dTIsFfwNyUSezxg.svg)](https://asciinema.org/a/1dTIsFfwNyUSezxg)
 
 Игра: "Арифметическая прогрессия":
 
-
-<img width="298" height="211" alt="image" src="https://github.com/user-attachments/assets/9685a5de-83ee-4c69-9046-7f999278ea87" />
-
-
+[![asciicast](https://asciinema.org/a/tMA1tZyT7FwrdHnR.svg)](https://asciinema.org/a/tMA1tZyT7FwrdHnR)
 
 
